@@ -53,3 +53,4 @@ export default tseslint.config({
 })
 ```
 # Tenzies-two-player-game-
+Live Link: [tenziesgame2player.netlify.app](https://tenziesgame2player.netlify.app/)
